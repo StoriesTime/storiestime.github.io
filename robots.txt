@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://storiestime.github.io/sitemap.xml
