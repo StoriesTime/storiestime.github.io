@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stories.googlexy.com/sitemap.xml
